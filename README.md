@@ -7,3 +7,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigofurlaneti&theme=blue-green)](https://github.com/rodrigofurlaneti/github-readme-stats)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-luiz-madeira-furlaneti-75730b182/)
+
