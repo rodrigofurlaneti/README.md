@@ -16,3 +16,6 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/js_versions.asp)
 
 [![C SHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/)
+
