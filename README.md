@@ -19,3 +19,5 @@
 
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/)
 
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/)
+
