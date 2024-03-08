@@ -17,8 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RODRIGOFURLANETI&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=rodrigofurlaneti_angularDonne)
----![icons8-sonar-48](https://github.com/rodrigofurlaneti/rodrigofurlaneti/assets/23003025/0f863e4f-f6a4-4a5e-8024-7f43b9b59071)
-#  Cobertura de teste - Visão geral
+# ![icons8-sonar-48](https://github.com/rodrigofurlaneti/rodrigofurlaneti/assets/23003025/0f863e4f-f6a4-4a5e-8024-7f43b9b59071) Cobertura de teste - Visão geral
 Relatórios de cobertura de teste e relatórios de execução de teste são métricas importantes para avaliar a qualidade do seu código. Os relatórios de cobertura de teste informam qual porcentagem do seu código é coberta pelos casos de teste. Os relatórios de execução de testes informam quais testes foram executados e seus resultados.
 
 
