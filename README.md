@@ -1,5 +1,8 @@
 ### Bem vindo meu GitHub 👋
 
+# 👋 Hello! Welcome to my Github profile.
+## My name is Rodrigo and my nickname is "rodrigofurlaneti"!
+
 ![Snake animation](https://github.com/rodrigofurlaneti/rodrigofurlaneti/blob/main/github-contribution-grid-snake-dark.svg)
 
 > [!NOTE]
