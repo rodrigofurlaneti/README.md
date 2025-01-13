@@ -1,7 +1,6 @@
 ### Bem vindo meu GitHub 👋
 
-![Snake animation](https://github.com/rodrigofurlaneti/rodrigofurlaneti/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/rodrigofurlaneti/rodrigofurlaneti/blob/main/github-contribution-grid-snake-dark.svg)
 
 > [!NOTE]
 > [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/rodrigofurlaneti/badges/)
